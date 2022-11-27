@@ -3,6 +3,7 @@
 
 # Datos
 + Los datos se han obtenido a partir del paquete **weatherData**, que contiene datos a nivel diarío y recoge las siguientes variables:
+  
   + estacion: localización de la estación
   + id_estacion: código abreviado de la estación
   + Date: fecha
