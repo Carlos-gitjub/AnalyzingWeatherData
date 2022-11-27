@@ -20,4 +20,4 @@
   + Hail: granizo, TRUE/FALSE
   + Rain: lluvia, TRUE/FALSE
   + Snow: nieve, TRUE/FALSE
-  + Thunderstorm: tormenta, TRUE/FAL
+  + Thunderstorm: tormenta, TRUE/FALSE
